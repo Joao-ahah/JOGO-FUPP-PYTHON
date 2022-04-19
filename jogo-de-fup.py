@@ -4,8 +4,8 @@ import turtle
 import wn as wn
 
 # Setup do projeto
-turtle.bgcolor('#a8a8a8')
-turtle.title('Jogo de FUP by João Victor')
+turtle.bgcolor('#a8a8a8') # background
+turtle.title('Jogo de FUP by João Victor') # Título do programa
 
 velocidade = 10
 def desenha():
